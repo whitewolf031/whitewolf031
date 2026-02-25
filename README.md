@@ -40,14 +40,6 @@ Currently, I'm focused on improving my Fullstack development skills and building
 
 ---
 
-## 🚀 Currently Learning
-
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
