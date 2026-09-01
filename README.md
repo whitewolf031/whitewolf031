@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Sardorbek Ergashev!</h1>
 
-<h3 align="center">⚙️ DevOps Engineer | Backend Developer</h3>
+<h3 align="center">⚙️ DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=3000&center=true&vCenter=true&width=550&lines=I'm+a+DevOps+Engineer;I'm+a+Backend+Developer;I'm+building+scalable+infrastructure;I'm+automating+development+workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=3000&center=true&vCenter=true&width=550&lines=I'm+a+DevOps+Engineer;I'm+building+scalable+infrastructure;I'm+automating+development+workflows" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **DevOps Engineer & Backend Developer** passionate about building reliable infrastructure, automating development workflows, and developing scalable backend applications.
+I'm a **DevOps Engineer** passionate about building reliable infrastructure, automating development workflows, and developing scalable backend applications.
 
 My main focus is on:
 
