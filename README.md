@@ -73,10 +73,10 @@ Currently, I'm focused on improving my **DevOps engineering skills**, building s
 
 ## 🛠 Featured Projects & Repositories
 
-* **🐳 Docker Environment:** `Online O'quv Markaz Microservices` [![View Code](https://img.shields.io/badge/View_Code-🔗-2496ED?style=flat-square&logo=github)](https://github.com/user-user/MyPortfolio/tree/main/01-docker-and-compose)
-* **🚀 CI/CD Pipeline:** `GitHub Actions Auto-Deploy Workflow` [![View Code](https://img.shields.io/badge/View_Code-🔗-2088FF?style=flat-square&logo=githubactions)](https://github.com/user-user/MyPortfolio/tree/main/02-ci-cd-pipelines)
-* **☸️ Orchestration:** `Kubernetes Production Manifests` [![View Code](https://img.shields.io/badge/View_Code-🔗-326CE5?style=flat-square&logo=kubernetes)](https://github.com/user-user/MyPortfolio/tree/main/03-kubernetes-gitops)
-* **🤖 Server Automation:** `System Monitor Bot & Auto-Cleaning` [![View Code](https://img.shields.io/badge/View_Code-🔗-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/user-user/MyPortfolio/tree/main/04-monitoring-alerting)
+* **🐳 Docker Environment:** `Online O'quv Markaz Microservices` [![View Code](https://img.shields.io/badge/View_Code-🔗-2496ED?style=flat-square&logo=github)](https://github.com/whitewolf031/MyPortfolio/tree/main/01-docker-and-compose)
+* **🚀 CI/CD Pipeline:** `GitHub Actions Auto-Deploy Workflow` [![View Code](https://img.shields.io/badge/View_Code-🔗-2088FF?style=flat-square&logo=githubactions)](https://github.com/whitewolf031/MyPortfolio/tree/main/02-ci-cd-pipelines)
+* **☸️ Orchestration:** `Kubernetes Production Manifests` [![View Code](https://img.shields.io/badge/View_Code-🔗-326CE5?style=flat-square&logo=kubernetes)](https://github.com/whitewolf031/MyPortfolio/tree/main/03-kubernetes-gitops)
+* **🤖 Server Automation:** `System Monitor Bot & Auto-Cleaning` [![View Code](https://img.shields.io/badge/View_Code-🔗-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/whitewolf031/MyPortfolio/tree/main/04-monitoring-alerting)
 
 ---
 
