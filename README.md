@@ -71,6 +71,22 @@ Currently, I'm focused on improving my **DevOps engineering skills**, building s
 
 ---
 
+## 🛠 Featured Projects & Repositories
+
+* **🐳 Docker Environment:** `Online O'quv Markaz Microservices`  
+  [![View Project](https://img.shields.io/badge/Repository-View_Code_🔗-2496ED?style=for-the-badge&logo=github)](./MyPortfolio/01-docker-and-compose)
+
+* **🚀 CI/CD Pipeline:** `GitHub Actions Auto-Deploy Workflow`  
+  [![View Project](https://img.shields.io/badge/Repository-View_Code_🔗-2088FF?style=for-the-badge&logo=githubactions)](./MyPortfolio/02-ci-cd-pipelines)
+
+* **☸️ Orchestration:** `Kubernetes Production Manifests`  
+  [![View Project](https://img.shields.io/badge/Repository-View_Code_🔗-326CE5?style=for-the-badge&logo=kubernetes)](./MyPortfolio/03-kubernetes-gitops)
+
+* **🤖 Server Automation:** `System Monitor Bot & Auto-Cleaning`  
+  [![View Project](https://img.shields.io/badge/Repository-View_Code_🔗-FCC624?style=for-the-badge&logo=linux&logoColor=black)](./MyPortfolio/04-monitoring-alerting)
+
+---
+
 ## 🎯 DevOps Focus
 
 ```text
